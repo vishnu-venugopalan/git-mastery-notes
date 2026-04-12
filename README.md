@@ -1,13 +1,13 @@
 # Git Mastery Notes
 
 
-# 📌 Description
+## 📌 Description
 
  This repository contains structured notes and practical understanding of Git and GitHub concepts.
 
 
 
-# 📂 Contents
+## 📂 Contents
 
 - Basics of Git
 
@@ -20,14 +20,14 @@
 
 
 
-# 🎯 Purpose
+## 🎯 Purpose
 
 
  To build a strong foundation in version control and document my learning in a clear and structured way.
 
 
 
-# 🚀 How to Use
+## 🚀 How to Use
 
  Each file contains explanations for a specific concept with examples and workflows.
 
@@ -45,13 +45,13 @@
 
 
 
-# 🛠️ Future Improvements
+## 🛠️ Future Improvements
 
 - Add  advanced  Git concepts
 
 - Include real project workflows
 
-# 🧠 Key concepts Covered
+## 🧠 Key Concepts Covered
 
 - Version control fundamentals
 - Working directory, staging area, repository
@@ -59,6 +59,6 @@
 - Merging and handling conflicts
 - Real-world GitHub workflow (clone ➡️ branch ➡️ commit ➡️ push ➡️ pull request)
 
-# 📌 Real-World Relevance
+## 📌 Real-World Relevance
 
 These concepts are essential for collaborative development and are used in real-world team environments.
