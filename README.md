@@ -51,3 +51,14 @@
 
 - Include real project workflows
 
+# 🧠 Key concepts Covered
+
+- Version control fundamentals
+- Working directory, staging area, repository
+- Branching strategy and isolation of features
+- Merging and handling conflicts
+- Real-world GitHub workflow (clone ➡️ branch ➡️ commit ➡️ push ➡️ pull request)
+
+# 📌 Real-World Relevance
+
+These concepts are essential for collaborative development and are used in real-world team environments.
