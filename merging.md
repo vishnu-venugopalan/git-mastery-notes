@@ -69,4 +69,4 @@ Two developers modify the same line in different branches. When merging, Git cou
 
 ## 🧠 Key Insight
 
-Merge conflicts are not errors but signals that changes overlap, requiring a decision to maintain correct functionality.
+Merge conflicts are not errors but indicators of overlapping changes, requiring human decision-making to resolve correctly.
