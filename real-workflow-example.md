@@ -35,6 +35,8 @@ Feature was added without affecting the main branch.
 - Push is required before PR
 - GitHub interface helps in merging
 
+---
+
 ## 📸 Proof of Execution
 
 - Created a feature branch
