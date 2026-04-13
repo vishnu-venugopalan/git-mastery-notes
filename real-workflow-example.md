@@ -34,3 +34,10 @@ Feature was added without affecting the main branch.
 - Creating a branch keeps main safe
 - Push is required before PR
 - GitHub interface helps in merging
+
+## 📸 Proof of Execution
+
+- Created a feature branch
+- Pushed changes to GitHub
+- Opened and merged a Pull Request
+- Deleted branch after merge
