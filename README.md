@@ -5,6 +5,8 @@
 
  This repository contains structured notes and practical understanding of Git and GitHub concepts.
 
+ ---
+
 
 
 ## 📂 Contents
@@ -16,7 +18,7 @@
 - GitHub workflow
 
 
-
+---
 
 
 
@@ -25,13 +27,13 @@
 
  To build a strong foundation in version control and document my learning in a clear and structured way.
 
-
+---
 
 ## 🚀 How to Use
 
  Each file contains explanations for a specific concept with examples and workflows.
 
-
+---
 
 
 ## 📖 What  I  Learned
@@ -42,7 +44,7 @@
 
 - Real-world GitHub workflow
 
-
+---
 
 
 ## 🛠️ Future Improvements
@@ -51,6 +53,8 @@
 
 - Include real project workflows
 
+---
+
 ## 🧠 Key Concepts Covered
 
 - Version control fundamentals
@@ -58,6 +62,8 @@
 - Branching strategy and isolation of features
 - Merging and handling conflicts
 - Real-world GitHub workflow (clone ➡️ branch ➡️ commit ➡️ push ➡️ pull request)
+
+---
 
 ## 📌 Real-World Relevance
 
